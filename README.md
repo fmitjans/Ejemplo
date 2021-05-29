@@ -1,2 +1,3 @@
 # Ejemplo
-Repositorio para aprender a usar Github
+Repositorio para aprender a usar Github  
+☕ ⚰️ 🧥
